@@ -1,4 +1,4 @@
-## Analyze Text
+### Analyze Text
 
 This Python code analyzes text using the Google Cloud Natural Language API. It extracts entities and sentiment from the text.
 
